@@ -1,0 +1,30 @@
+html{
+    height: 100%;
+}
+
+nav{
+    background-color:rgba(195, 130, 130, 0.698);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+} 
+
+body{
+    background-color: #000000;
+    background-image: url(img/Jellyfish.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    font-family: Georgia;
+    
+}
+
+#snakeboard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 100px;
+    padding-bottom: 50px; 
+
+} 
